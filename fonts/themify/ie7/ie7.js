@@ -330,7 +330,7 @@
 		'ti-layout-column4-alt': '&#xe73a;',
 		'ti-layout-column3-alt': '&#xe73b;',
 		'ti-layout-column2-alt': '&#xe73c;',
-		'ti-instagram': '&#xe73d;',
+		'ti-tripadvisor': '&#xe73d;',
 		'ti-google': '&#xe73e;',
 		'ti-github': '&#xe73f;',
 		'ti-flickr': '&#xe740;',

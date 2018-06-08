@@ -5874,7 +5874,7 @@
 					"id": 10,
 					"prevSize": 32,
 					"code": 59197,
-					"name": "instagram",
+					"name": "tripadvisor",
 					"tempChar": "",
 					"ligatures": ""
 				},
@@ -6175,7 +6175,7 @@
 					],
 					"grid": 0,
 					"tags": [
-						"instagram"
+						"tripadvisor"
 					]
 				},
 				{

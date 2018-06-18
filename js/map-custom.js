@@ -202,8 +202,8 @@
                 map_zoom = 14;
 
             var locations = [
-                ['<div class="infobox"><h4>Pato</h4><p>Now that you visited our website, how' +
-                ' <br>about checking out our office too?</p></div>'
+                ['<div class="infobox"><h4>La Curva</h4><p>Visitanos dentro del food park' +
+                ' <br>Pv en Puerto Vallarta</p></div>'
                     , latitude, longitude, 2]
             ];
 
